@@ -1,4 +1,6 @@
 *** Test Cases ***
 MyFirstTest
-    Log    Hello Kanti    
+    Log    Hello Kanti  
+MyTest
+    Log    Hello Kanti2    
     
